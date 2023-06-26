@@ -1,0 +1,28 @@
+API: https://pokeapi.co/
+Nombre Base de Datos: pokemon
+
+|----------------------|                   |------------------|
+|       Pokemon        |       N a N       |      Tipo        |
+|----------------------| <---------------> |------------------|
+| id* ->INTEGER        |                   | id* -> INTEGER   |
+| name* ->STRING       |                   | name* -> STRING  |
+| image* ->STRING      |                   |                  |
+| life*                |                   |------------------|
+| attack*              |
+| defense*             |    *notNull
+| speed                |
+| height->INTEGER (dm) |
+| weight->INTEGER (hg) |                   
+|----------------------|                   
+
+
+Fecha      ||              TAREA                                      ||   PC
+-----------||---------------------------------------------------------||----------
+26.06.2023    Crear db pokemon                                           Trabajo
+              .env creado                                                Trabajo
+              Crear Model-> Tipo.js                                      Trabajo
+
+
+
+
+
