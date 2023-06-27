@@ -21,7 +21,8 @@ Fecha      ||              TAREA                                      ||   PC
 26.06.2023    Crear db pokemon                                           Trabajo
               .env creado                                                Trabajo
               Crear Model-> Tipo.js                                      Trabajo
-
+27.06.2023    index.js - app.js - db.js   DONE                           Trabajo
+              
 
 
 

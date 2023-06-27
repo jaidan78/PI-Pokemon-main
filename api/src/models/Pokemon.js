@@ -17,9 +17,20 @@ module.exports = (sequelize) => {
       type: DataTypes.STRING,
       allowNull: false,
     },
-    Life: {
-
+    life: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
     },
-
+    attack: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
+    defense: {
+      type: DataTypes.INTEGER,
+      allowNull: false,
+    },
+    speed: {
+      type: DataTypes.INTEGER,
+    }
   });
 };
